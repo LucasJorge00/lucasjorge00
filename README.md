@@ -3,7 +3,7 @@
 ... Front-End Developer 💻
 
 ## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasjorge00)](https://github.com/lucasjorge00)
+[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasjorge00/)
 
 ## Languages and Tools:
 <code><img height="25" src="https://img.shields.io/badge/HTML-ea5d24?style=for-the-badge&logo=html5&logoColor=white"></code>
