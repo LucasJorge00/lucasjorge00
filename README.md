@@ -1,6 +1,6 @@
-## Olá, Meu nome é Lucas Jorge!
+## Hello, My name is Lucas Jorge!
 <p align="left"> 
-  Estudante de Desenvolvimento Web.
+  Web Development Student.
 </p>
 
 
@@ -15,6 +15,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styled-Components"/></code>
 
 ---
-## Sobre Mim
+## About me
 [![Github Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasjorge00/)
 
