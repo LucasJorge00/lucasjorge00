@@ -20,4 +20,4 @@
 
 <p align="center"><i>Let's connect and chat! Find me on the web...</i></p>
 
-<div align="center"><a href="https://www.linkedin.com/in/thaynar-brandão-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+<div align="center"><a href="https://www.linkedin.com/in/lucasjorge00" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
