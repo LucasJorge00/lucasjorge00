@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Jorge
 Front-end Developer
 -----------------------
 
-I'm studying to be a front-end developer and I'm constantly learning and trying to improve my skills.
+I'm constantly learning and trying to improve my skills.
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm learning Next.js
